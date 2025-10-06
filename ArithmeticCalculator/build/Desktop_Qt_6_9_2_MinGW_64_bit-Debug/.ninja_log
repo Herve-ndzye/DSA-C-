@@ -1,0 +1,21 @@
+# ninja log v6
+18	6016	7796691504882786	ArithmeticCalculator_autogen/timestamp	8af9d8a243bcdab2
+18	6016	7796691504882786	ArithmeticCalculator_autogen/mocs_compilation.cpp	8af9d8a243bcdab2
+18	6016	7796691504882786	F:/Courses/RCA/Year 2/DSA/codes/ArithmeticCalculator/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/ArithmeticCalculator_autogen/timestamp	8af9d8a243bcdab2
+18	6016	7796691504882786	F:/Courses/RCA/Year 2/DSA/codes/ArithmeticCalculator/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/ArithmeticCalculator_autogen/mocs_compilation.cpp	8af9d8a243bcdab2
+6022	9265	7796691505742213	CMakeFiles/ArithmeticCalculator.dir/ArithmeticCalculator_autogen/mocs_compilation.cpp.obj	2d9c3b8c421b8ccd
+6026	9280	7796691505783579	CMakeFiles/ArithmeticCalculator.dir/main.cpp.obj	7f1baa9812ddb412
+6031	9625	7796691505840668	CMakeFiles/ArithmeticCalculator.dir/mainwindow.cpp.obj	dfb06d3daba52362
+9625	10521	7796691541780491	ArithmeticCalculator.exe	6fb0eafdd9ef7ef6
+69	346	7796694871143862	ArithmeticCalculator_autogen/timestamp	8af9d8a243bcdab2
+69	346	7796694871143862	ArithmeticCalculator_autogen/mocs_compilation.cpp	8af9d8a243bcdab2
+69	346	7796694871143862	F:/Courses/RCA/Year 2/DSA/codes/ArithmeticCalculator/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/ArithmeticCalculator_autogen/timestamp	8af9d8a243bcdab2
+69	346	7796694871143862	F:/Courses/RCA/Year 2/DSA/codes/ArithmeticCalculator/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/ArithmeticCalculator_autogen/mocs_compilation.cpp	8af9d8a243bcdab2
+347	3209	7796694873915924	CMakeFiles/ArithmeticCalculator.dir/mainwindow.cpp.obj	dfb06d3daba52362
+3210	3485	7796694902550154	ArithmeticCalculator.exe	6fb0eafdd9ef7ef6
+18	223	7796702757212646	ArithmeticCalculator_autogen/timestamp	8af9d8a243bcdab2
+18	223	7796702757212646	ArithmeticCalculator_autogen/mocs_compilation.cpp	8af9d8a243bcdab2
+18	223	7796702757212646	F:/Courses/RCA/Year 2/DSA/codes/ArithmeticCalculator/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/ArithmeticCalculator_autogen/timestamp	8af9d8a243bcdab2
+18	223	7796702757212646	F:/Courses/RCA/Year 2/DSA/codes/ArithmeticCalculator/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/ArithmeticCalculator_autogen/mocs_compilation.cpp	8af9d8a243bcdab2
+224	3074	7796702759266206	CMakeFiles/ArithmeticCalculator.dir/mainwindow.cpp.obj	dfb06d3daba52362
+3074	3354	7796702787775312	ArithmeticCalculator.exe	6fb0eafdd9ef7ef6

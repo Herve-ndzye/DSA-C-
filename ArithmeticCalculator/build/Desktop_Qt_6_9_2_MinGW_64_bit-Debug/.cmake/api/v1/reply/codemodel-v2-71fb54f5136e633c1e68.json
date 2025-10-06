@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-628dd1ed363d48354d11.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ArithmeticCalculator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ArithmeticCalculator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ArithmeticCalculator-Debug-219d8546cee99da1a6e3.json",
+					"name" : "ArithmeticCalculator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ArithmeticCalculator_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ArithmeticCalculator_autogen-Debug-35bf50479849e6ac6a50.json",
+					"name" : "ArithmeticCalculator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ArithmeticCalculator_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ArithmeticCalculator_autogen_timestamp_deps-Debug-9f0e2547d1e23a8d676e.json",
+					"name" : "ArithmeticCalculator_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/Courses/RCA/Year 2/DSA/codes/ArithmeticCalculator/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug",
+		"source" : "F:/Courses/RCA/Year 2/DSA/codes/ArithmeticCalculator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
