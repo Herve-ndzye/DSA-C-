@@ -398,7 +398,7 @@ if (NOT QT_QMAKE_EXECUTABLE)
 endif()
 
 if (CMAKE_VERSION GREATER_EQUAL "3.24")
-  list(APPEND CMAKE_PROJECT_TOP_LEVEL_INCLUDES ${CMAKE_CURRENT_LIST_DIR}/maintenance_tool_provider.cmake)
+  list(APPEND CMAKE_PROJECT_TOP_LEVEL_INCLUDES maintenance_tool_provider.cmake)
 else()
   message(WARNING "Qt Creator: CMake version 3.24 is needed for MaintenanceTool find_package() provider. "
                   "To disable this warning set QT_CREATOR_SKIP_MAINTENANCE_TOOL_PROVIDER to ON.")
